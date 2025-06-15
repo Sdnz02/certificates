@@ -1,31 +1,29 @@
 ## Certificates
 
-Below is a list of certifications I have completed, demonstrating my continued growth in data science, machine learning, and professional soft skills:
+Below is a selection of certificates demonstrating my professional development in data science, machine learning, and workplace skills:
 
 - **Data Science with Python**  
-  *Completed: Jan 2023*  
-  [View Certificate](certificates/Data_Science_with_Python.pdf)
+  *Completed: Jan 16, 2023*  
+  [📄 View Certificate (PDF)](certificates/SuatDeniz_2006102002.pdf)
 
 - **Working in a Digital World: Professional Skills** – *IBM SkillsBuild*  
-  *Completed: Jun 2024*  
-  [View Certificate](certificates/Working_in_a_Digital_World.pdf)
+  *Completed: Jun 30, 2024*  
+  [📄 View Certificate (PDF)](certificates/Working_in_a_Digital_World__Professional_Skills.pdf)  
+  🔗 [🔍 Verify on Credly](https://www.credly.com/go/BkCWfD5M)
 
-- **Present with Purpose** – *IBM SkillsBuild*  
-  *Completed: Apr 2024*  
-  [View Certificate](certificates/Present_with_Purpose.pdf)
+- 🗣**Present with Purpose** – *IBM SkillsBuild*  
+  *Completed: Apr 30, 2024*  
+  [📄 View Certificate (PDF)](certificates/SkillsBuild%20Sunum%20Nas%C4%B1l%20Yap%C4%B1l%C4%B1r.pdf)
 
 - **Collaborate Effectively** – *IBM SkillsBuild*  
-  *Completed: May 2024*  
-  [View Certificate](certificates/Collaborate_Effectively.pdf)
+  *Completed: May 23, 2024*  
+  [📄 View Certificate (PDF)](certificates/SkillsBuild%20Collaborate%20Effectively.pdf)
 
 - **Explore Emerging Tech** – *IBM SkillsBuild*  
-  *Completed: Jun 2024*  
-  [View Certificate](certificates/Explore_Emerging_Tech.pdf)
-
-- **Introduction to Machine Learning** – *AI Business School*  
+  *Completed: Jun 29, 2024*  
+  [📄 View Certificate (PDF)](certificates/Explore_Emerging_Tech_Badge.pdf)  
+  🔗 [🔍 Verify on Credly](https://www.credly.com/go/A5IQBUGE)
+  
+- **Introduction to Machine Learning** – *AI Business School / Global AI Hub*  
   *Completed: Apr 2024*  
-  [View Certificate](certificates/Introduction_to_Machine_Learning.pdf)
-
----
-
-If you'd like to see these certificates in action, feel free to explore my related projects on this GitHub profile!
+  [📄 View Certificate (PDF)](certificates/Suat%20Deniz-Introduction%20to%20Machine%20Learning-Global%20AI%20Hub.pdf)
