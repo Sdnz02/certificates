@@ -26,4 +26,4 @@ Here is a selection of my verified certificates in data science, machine learnin
 
 - **Introduction to Machine Learning** – *Global AI Hub*  
   *Completed: Apr 2024*  
-  [📄 View Certificate (PDF)](Suat%20Deniz-Introduction%20to%20Machine%20Learning-%20Global%20AI%20Hub.pdf)
+  [📄 View Certificate (PDF)](Suat%20Deniz-Introduction%20to%20Machine%20Learning-Global%20AI%20Hub.pdf)
