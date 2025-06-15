@@ -2,7 +2,7 @@
 
 Here is a selection of my verified certificates in data science, machine learning, and professional skills:
 
-- **Data Science with Python**  
+- **Data Science with Python**
   *Completed: Jan 16, 2023*  
   [📄 View Certificate (PDF)](SuatDeniz_2006102002.pdf)
 
